@@ -1,4 +1,4 @@
-# Stacked Behind Bars Simulation
+# Stacked Behind Bars Interactive Simulation (Streamlit App)
 
 A Streamlit app for exploring how bottlenecks in Brazil's judicial process can drive pre-trial detention, prison overcrowding, and overall incarceration dynamics.
 
