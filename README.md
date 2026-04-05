@@ -90,13 +90,7 @@ This app currently depends on:
 
 ## Related project context
 
-This simulation is part of the broader **Stacked Behind Bars** capstone project, which combines computational modeling and data storytelling to examine prison overcrowding in Brazil.
+This simulation is part of the broader **Stacked Behind Bars** capstone project, which combines computational modeling and data storytelling to examine prison overcrowding in Brazil. Access the story here: https://lookerstudio.google.com/reporting/0910b53a-00f3-41c5-9061-5596e1831872
 
 The app complements the visual story by letting users test how institutional constraints and policy levers may affect incarceration dynamics under different assumptions.
-
-## Suggested GitHub repo description
-
-Use this as your GitHub repository description:
-
-> A Streamlit simulation app for exploring how judicial bottlenecks shape pre-trial detention and prison overcrowding in Brazil.
 
